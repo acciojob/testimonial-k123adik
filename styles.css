@@ -1,1 +1,42 @@
 /*  your css code here. If applicable */
+.main {
+	background-color: #eeeeee;
+	width: 800px;
+	height: 342px;
+}
+
+.main1 {
+/* 	display: flex; */
+/*     justify-content: center; */
+    padding-top:25px;
+}
+
+.main h1 {
+	margin-left:25px;
+	margin-top: 20px;
+}
+
+.one{
+	background-color: white;
+	width: 750px;
+	height:70px;
+	border: 1px solid black;
+	margin-bottom: 20px;
+	margin-left: 25px;
+
+}
+
+
+.line {
+	text-align: left;
+	margin-left: 20px;
+	align-items: center;
+	display: flex;
+	justify-content: space-between
+
+}
+
+.name {
+	text-align: right;
+	margin-right: 20px;
+}
